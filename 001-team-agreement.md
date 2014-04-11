@@ -10,13 +10,17 @@ Weekly meetings will be held Wednesday 8pm-10pm in CSL unless stated otherwise.
 
 All co-working will be in different locations, including ICS 193, CSL, Science Library, and other study spots.
 
-Monday 3pm-5pm: All
+Monday 
+3pm-5pm: All
 
-Wednesday 6:30pm-7pm: All
+Wednesday 
+6:30pm-7pm: All
 
-Thursdays 7pm-10pm
+Thursdays 
+7pm-10pm
 
-Fridays 3pm-5pm: All
+Fridays 
+3pm-5pm: All
 
 ## File management
 
