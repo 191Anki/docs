@@ -1,4 +1,4 @@
-#What programming languages will you use?
+##What programming languages will you use?
 -Python
 -HTML
 -CSS
@@ -6,27 +6,27 @@
 -SQL
 -PHP
 
-#What frameworks will you use?
+##What frameworks will you use?
 -Cakephp
 
-#What other libraries or dependencies will you use?
+##What other libraries or dependencies will you use?
 -Any library that provides  desired functionality
 
-#Will you use different languages, frameworks, and/or libraries/dependencies for different parts of your application?
+##Will you use different languages, frameworks, and/or libraries/dependencies for different parts of your application?
 -Python will be used for the Anki while the website will utilize the HTML,CSS,JavaScript,PHP,and CakePHP framework. Both Anki and the server will use SQL to database the flashcards
 
-#What is your overall architecture (e.g., MVC)?
+##What is your overall architecture (e.g., MVC)?
 -MVC
 
-#What data will you need to store?
+##What data will you need to store?
 - User account information (usernames, passwords)
 - Flashcard decks (.apkg format)
 - Flashcard/deck edits
 
-#What is your database design (or other data storage scheme)?
+##What is your database design (or other data storage scheme)?
 -MySQL
 
-#What are the other parts of your software? For example, for an MVC app: What models will you make? What attributes and methods will they have? What controllers will you make? What methods will they have? What views will you make?
+##What are the other parts of your software? For example, for an MVC app: What models will you make? What attributes and methods will they have? What controllers will you make? What methods will they have? What views will you make?
 
 Model: 
 Decks
