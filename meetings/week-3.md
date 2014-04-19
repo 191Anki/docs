@@ -30,7 +30,7 @@ Instead of only changing the Anki applications, we will be modifying the Anki de
 
 ## Project development and delivery timeline
 
-+Have initial sharing and website capabilities functional by August
-+Have website up and running by Week 10
-+Have consolidated decks and run bug testing over summer
-+Start coding by the end of Week 5 
++ Have initial sharing and website capabilities functional by August
++ Have website up and running by Week 10
++ Have consolidated decks and run bug testing over summer
++ Start coding by the end of Week 5 
