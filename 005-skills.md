@@ -14,7 +14,7 @@ Dillon Gee, Jazmynn-Jade Daos, Kyla Lamontagne, Vamsi Koduru, Wilbur Chen
 + <i>In general, how well can you code?</i> Okay <br>
 + <i>How many times before have you used the lanuage(s)/framework(s) you are using in this project?</i><br>
 &nbsp;&nbsp;&nbsp;Python: A couple times<br>
-&nbsp;&nbsp;&nbsp;Java: A couple times<br>
+&nbsp;&nbsp;&nbsp;Java: Lots and lots<br>
 &nbsp;&nbsp;&nbsp;HTML: A couple times<br>
 &nbsp;&nbsp;&nbsp;CSS: A couple times<br>
 &nbsp;&nbsp;&nbsp;CakePHP: Never<br>
