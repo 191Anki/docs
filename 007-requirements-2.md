@@ -15,11 +15,11 @@ Dillon Gee, Jazmynn-Jade Daos, Kyla Lamontagne, Vamsi Koduru, Wilbur Chen
 + Be able to rate individual cards in the deck
 + Be able to offer edits to existing cards in the deck
 + The system will have a central database to store all the decks
-+ Moderators must have ability to approve/disapprove of changes. 
-+ The ability for certain accounts to be moderators.
-+ Constantly updates information to the central database. 
++ Moderators must have ability to approve/disapprove of changes
++ The ability for certain accounts to be moderators
++ Constantly updates information to the central database
 + Redundant cards will be sorted by approval ratings 
-+ Poorly rated cards will be deleted from central database once they reach a certain disapproval rating. 
++ Poorly rated cards will be deleted from central database once they reach a certain disapproval rating 
 + Choosing which flashcards to share publicly
 
 ## Non-functional requirements
