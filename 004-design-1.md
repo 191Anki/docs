@@ -1,4 +1,8 @@
 # Software Design Document
+Team Anki
+
+Dillon Gee, Jazmynn-Jade Daos, Kyla Lamontagne, Vamsi Koduru, Wilbur Chen
+
 ## What programming languages will you use?
 + Python
 + HTML
