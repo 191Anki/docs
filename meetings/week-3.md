@@ -26,7 +26,7 @@ Courtyard Study Lounge, April 16th, 8pm.
 
 ## Requirements document changes
 
-Instead of only changing the anki applications, we are changing the anki desktop code slightly, and then creating a website that will be able to host all of the shared decks, allow users to search for decks, put multiple similar decks into one, and allow students to contribute to decks as well as download them. The website will use logic for the filters as similar to the Anki logic as possible. The website interface is planned to give users information like what cards exist in which deck, limited universal tagging privileges, and who has made what edits to each card/deck.
+Instead of only changing the Anki applications, we will be modifying the Anki desktop code slightly, and then creating a website that will be able to host all of the shared decks, allow users to search for decks, put multiple similar decks into one, and allow students to contribute to decks as well as download them. As much as possible the website will use similar Anki logic for the filters. The website interface plans to give users information like what cards exist in which deck, limited universal tagging privileges, and who has made what edits to each card/deck.
 
 ## Project development and delivery timeline
 
