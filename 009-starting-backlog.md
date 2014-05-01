@@ -1,0 +1,28 @@
+- get domain name
+- get server space
+- set up server
+- Create website
+- Code database to server
+- Organize database information
+- Populate database
+- Create uploading functions
+- Create downloading functionality
+- Establish Med school class formatting 
+- Find how to open and display .file 
+- Establish a means for vertical integration of the decks
+    - categorizing cards by subject
+    - adding tagging functionality to specific cards/decks
+- Create interface for login
+- Create Forgot Password, Register
+- Code for download decks to desktop
+- Create Upload interface
+- Create tagging system
+- Account database (?)
+- Create hidden “authors” on published decks/cards
+- cloning cards/editing
+- Repackaging decks
+- Create method for Sharing cards
+- Establish deck organization methodology( sorting of decks)
+- Create Edit Card feature
+-develop UD
+
