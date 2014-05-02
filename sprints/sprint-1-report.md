@@ -7,8 +7,8 @@
 - Organize database information
 
 ## Completed
--get domain name
--organize database information
+- get domain name
+- organize database information
 
 ## Not Completed
 - get server space, plans changed and using other server space
