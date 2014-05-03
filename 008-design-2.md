@@ -1,28 +1,38 @@
 # Software Design Document
+Team Anki
+
+Dillon Gee, Jazmynn-Jade Daos, Kyla Lamontagne, Vamsi Koduru, Wilbur Chen
+
 ## What programming languages will you use?
 + PHP
++ JavaScript
 + HTML
 + CSS
-+ JavaScript
 + SQL
-
++ Python
 
 ## What frameworks will you use?
-+ CakePHP
++ CakePHP or Laravel (still deciding on which one best meets our needs)
 
 ## What other libraries or dependencies will you use?
-+ Any library that provides desired functionality
++ Sublime Text
++ Any other library or dependencies that provides desired functionality
 
 ## Will you use different languages, frameworks, and/or libraries/dependencies for different parts of your application?
-+ Python will be used for the Anki while the website will utilize the HTML, CSS, JavaScript, PHP, and CakePHP framework. Both Anki and the server will use SQL to database the flashcards
++ PHP, JavaScript, HTML and CSS languages will be used to develop the AnkiShare website application
++ CakePHP or Laravel will be the framework used to develop AnkiShare
++ SQL will be used to setup and maintain the website’s database
++ Sublime Text will be used as our main text editor
 
 ## What is your overall architecture?
 + MVC
 
 ## What data will you need to store?
 + User account information: usernames, passwords
-+ Flashcard decks (.apkg format)
-+ Flashcard/deck edits
++ Flashcard decks in .apkg format
++ Flashcard edits
++  Deck class/category name organization structure
++ User activity log: username, timestamps, action
 
 ## What is your database design (or other data storage scheme)?
 + MySQL
@@ -31,7 +41,7 @@
 
 <b>Model:</b>
 + Decks
- + Methods: Download, Upload, Change Privacy Settings, Sync with central database. 
+ + Methods: Download, Upload, Change Privacy Settings, Sync with central database
  + Attributes: Number of cards, tags, sub decks, master decks
 + Accounts
  + Privileges
@@ -39,11 +49,11 @@
 + Attributes: Rate, Edit, Remove, Deck Position
 + Controllers:
  + Redundancy Algorithm:<br>
-&nbsp;&nbsp;&nbsp;Methods: Run every time central deck is updated.
+&nbsp;&nbsp;&nbsp;Methods: Run every time central deck is updated
  + Best Card Algorithm:<br>
-&nbsp;&nbsp;&nbsp;Methods: TBD. Upvote/Downvote system v.s. # of stars rating system. 
+&nbsp;&nbsp;&nbsp;Methods: TBD. Upvote/Downvote system v.s. # of stars rating system
  + Tagging System:<br>
-&nbsp;&nbsp;&nbsp;Methods: Dropdown list of pre-set tags, corresponding to course title.
+&nbsp;&nbsp;&nbsp;Methods: Dropdown list of pre-set tags, corresponding to course title
  + View Cards:<br>
 &nbsp;&nbsp;&nbsp;Methods: View All, Filter view, Search
  + Accounts:<br>
@@ -51,4 +61,3 @@
 
 <b>View:</b>
 + Web browser interface
-
