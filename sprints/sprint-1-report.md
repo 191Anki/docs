@@ -1,17 +1,21 @@
 ## Initial Tasks
-- get domain name
-- get server space
-- set up server
-- Create website
-- Code database to server
+- get permanent domain name
+- get permanenet server space
+- set-up permanent server
+- Create prototype website
+- Create database
 - Organize database information
+- Set-up development environment
+- Install Cakephp, MySQL, PHP
 
 ## Completed
-- get domain name
 - organize database information
+- Set-up development environment
+- Install Cakephp, MySQL, PHP
+- create prototype website
+- create database
 
 ## Not Completed
-- get server space, plans changed and using other server space
-- set up server, since no server space, can't setup
-- Create website, wasn't able to recieve domain name in time
-- Code database to server, had no server
+- get permanent server space, plans changed and using temporary ICS server space
+- set up permanent server, since no server space, so using already set-up server
+- get permanent domain name, still waiting on clients to get back to us on that
