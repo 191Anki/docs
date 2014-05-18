@@ -25,8 +25,8 @@ Meeting was dedicated to showing sponsors version 2 website mockups and getting 
 ## Next Steps
 
 Based on sponsor feedback and other topics dicussed in the meetings, out next steps/decisions will be: 
-++ Create verion 3 mockups to incorporate: 1) new tier design for deck organization and add additional tier levels and 2) communal decks for tiers 3 and beyond.
-++ Design and code the website with the intention that a separate moderator interface will be added in the future (whether or not it's during our team's project time).
++ Create verion 3 mockups to incorporate: 1) new tier design for deck organization and add additional tier levels and 2) communal decks for tiers 3 and beyond.
++ Design and code the website with the intention that a separate moderator interface will be added in the future (whether or not it's during our team's project time).
 
 
 
