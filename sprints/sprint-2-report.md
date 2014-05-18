@@ -8,6 +8,7 @@
 - split up into teams (database and front-end)
 - start coding basic functionalities (downloading/uploading)
 - populate database
+
 ## Completed
 - connect database to Cakephp
 - put test html in test development environment
