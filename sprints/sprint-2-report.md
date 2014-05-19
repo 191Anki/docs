@@ -15,9 +15,9 @@
 - finish mockup version 2
 - create columns in database
 - split up into teams (database and front-end)
+- populate database, waiting on more flashcards from clients
 
 ## Not Completed
 - start coding basic functionalities (downloading/uploading), still in the process of coding
-- populate database, waiting on more flashcards from clients
 - decide on permanent server space, still researching
 - get Cakephp up and running on test development environment, decided to let front-end team do over weekend
