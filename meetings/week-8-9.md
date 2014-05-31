@@ -29,3 +29,20 @@ Based on sponsor responses to the group's emailed updates, our next steps/decisi
 + Clean up the page designs and aesthetics.
 + Finish as much as we can for user accounts (login, registration, email verification).
 
+## (5/28 Email)
+
+Hi Kevins,
+
+Here's a quick update on where the team is at:
+
+We've secured a more permanent domain, server, and database (not necessarily set in stone still, but it's a better situation than the ICS temp accounts). The URL is http://www.ankishare.com. None of our code is live yet, but it will be come the final demo. 
+
+For the final demo presentation (Mon. June 9 3:40-4:20pm), we're shooting to have the homepage, upload decks, and download decks pages live and running. 
+
+As for the team's summer plans for the August release, we'll be able to talk about that more and present that to you both during the presentation.
+
+Since the team is mainly focused on coding right now to get our MVP (minimum viable product) done, we won't need to have our regular Wed. 8pm meetings anymore for the rest of the quarter. We will, however, check in with you and give you updates via email for the next two weeks before the final presentation.
+
+Please let us know if you have any questions. We look forward to seeing you both at the final demo!
+
+- Jazmynn, Dillon, Kyla, Vamsi, Wilbur
