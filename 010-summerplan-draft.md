@@ -46,7 +46,7 @@ Nonfunctional Requirements:
 + Continue meeting with our sponsors to receive their feedback and to update them on our progress throughout the summer and fall.
 
 <b>Are there some requirements for the final product that are not yet clear?</b><br>
-No, none as of right now.<br>
+Need to clarify the role of moderators and what functionality will be available to them<br>
 
 <b>What is the most important work to do to make progress on delivering the final product?</b><br>
 Advancing our Ruby, JavaScript, HTML, and CSS skills as a whole team.
