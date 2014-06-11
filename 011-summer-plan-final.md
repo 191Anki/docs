@@ -69,8 +69,8 @@ Continue reading tutorials, watching videos, etc. on Ruby, JavaScript, HTML, and
 
 ## Timeline
 <b>SUMMER</b><br>
-TEAMS: Touch Ups - Jazmynn, Wilbur | New Features: Dillon, Vamsi | Kyla will be a floater)<br>
-NOTE: Research means "trying to implement as best as we can"; Research tasks ARE NOT gauranteed to be finished; these tasks are more "trial" tests and runs so that we can hit the ground running in the Fall
+Touch Ups - Jazmynn, Wilbur | New Features: Dillon, Vamsi | Kyla will be a floater<br>
+Research means "trying to implement as best as we can"; Research tasks ARE NOT gauranteed to be finished; these tasks are more "trial" tests and runs so that we can hit the ground running in the Fall
 + <b>[1] 6/15-6/21:</b><br>
 Touch Ups: Learn and get familiar with current build of the website<br>
 New Features: Implement moderator user accounts; Set up development project for future builds; <i>Research: Attempt to figure out how to read .apkg and .file files
@@ -80,7 +80,7 @@ New Features: Research: Attempt to implement Anki importer, View Deck, Individua
 + <b>[3] 6/29-7/5:</b><br>
 Both Teams: Set up server via gnu screen (so it keep running)<br>
 Touch Ups: Finish implementing category organization<br>
-New Features: <i>Research: Attempt to implement Edit Card and Edit Tags</i>
+New Features: Research: Attempt to implement Edit Card and Edit Tags
 + <b>[4] 7/6-7/12:</b><br>
 Touch Ups: Create email account for discount user testing feedback (ankishareucifeedback@gmail.com); Buffer Week; Soft Summer Deployment Phase 1.0 7/12<br>
 New Features: Buffer Week for research tasks
@@ -97,21 +97,42 @@ New Features: Buffer Week for research tasks
 Both Teams: Create documentation; Make final adjustments; Prepare for last Hard Summer Deployment Phase 1.1 8/6<br>
 Touch Ups: Respond to discount user testing<br>
 New Features: Buffer Week for research tasks
-+ <b>[ ] 8/7-9/30:</b> NOTE: NO Hard deadlines for the rest of summer<br>
++ <b>[ ] 8/7-9/30:</b>
+NOTE: NO Hard deadlines for the rest of summer<br>
 Both Teams: Continue learning Ruby, JavaScript, HTML, and CSS<br>
 Touch Ups: Respond to discount user testing<br>
 New Features: Buffer Week for research tasks<br>
 
 <b>FALL</b><br>
 All tasks are a team effort.
-+ <b>[0] 10/1-10/4:</b> (nothing)
-+ <b>[1] 10/5-10/11:</b> Start implementing View Deck and Individual Card
-+ <b>[2] 10/12-10/18:</b> Finish implementing View Deck and Individual Card; Start implementing Edit Card and Edit Tags
-+ <b>[3] 10/19-10/25:</b> Finish implementing Edit Card and Edit Tags; Start implementing Communal Deck (moderator side) per category level
-+ <b>[4] 10/26-11/1:</b> Continue implementing Communal Deck (moderator side) per category level
-+ <b>[5] 11/2-11/8:</b> Finish implementing Communal Deck (moderator side) per category level; Start implementing Communal Deck (regular user side) per category level
-+ <b>[6] 11/9-11/15:</b> Finish implementing Communal Deck (regular user side) per category level
-+ <b>[7] 11/16-11/22:</b> Buffer Week; Conduct formal user testing
-+ <b>[8] 11/23-11/29:</b> Conduct formal user testing; Respond to feedback from user testing; Work on website aesthetics
-+ <b>[9] 11/30-12/6:</b> Conduct formal user testing; Respond to feedback from user testing; Work on website aesthetics
-+ <b>[10] 12/7-12/13:</b> Make final adjustments; Prepare for Final Deployment Phase 2.0
++ <b>[0] 10/1-10/4:</b><br>
+(nothing)
++ <b>[1] 10/5-10/11:</b><br>
+Start implementing View Deck and Individual Card
++ <b>[2] 10/12-10/18:</b><br>
+Finish implementing View Deck and Individual Card<br>
+Start implementing Edit Card and Edit Tags
++ <b>[3] 10/19-10/25:</b><br>
+Finish implementing Edit Card and Edit Tags<br>
+Start implementing Communal Deck (moderator side) per category level
++ <b>[4] 10/26-11/1:</b><br>
+Continue implementing Communal Deck (moderator side) per category level
++ <b>[5] 11/2-11/8:</b><br>
+Finish implementing Communal Deck (moderator side) per category level<br>
+Start implementing Communal Deck (regular user side) per category level
++ <b>[6] 11/9-11/15:</b><br>
+Finish implementing Communal Deck (regular user side) per category level
++ <b>[7] 11/16-11/22:</b><br>
+Buffer Week<br>
+Conduct formal user testing
++ <b>[8] 11/23-11/29:</b><br>
+Conduct formal user testing<br>
+Respond to feedback from user testing<br>
+Work on website aesthetics
++ <b>[9] 11/30-12/6:</b><br>
+Conduct formal user testing<br>
+Respond to feedback from user testing
+<br>Work on website aesthetics
++ <b>[10] 12/7-12/13:</b><br>
+Make final adjustments<br>
+Prepare for Final Deployment Phase 2.0
