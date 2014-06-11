@@ -69,39 +69,46 @@ Continue reading tutorials, watching videos, etc. on Ruby, JavaScript, HTML, and
 
 ## Timeline
 <b>SUMMER</b><br>
-Touch Ups - Jazmynn, Wilbur | New Features: Dillon, Vamsi | Kyla will be a floater<br>
+Touch Ups - Jazmynn, Wilbur | New Features: Dillon, Vamsi | Floater: Kyla<br>
 Research means "trying to implement as best as we can"; Research tasks ARE NOT gauranteed to be finished; these tasks are more "trial" tests and runs so that we can hit the ground running in the Fall
 + <b>[1] 6/15-6/21:</b><br>
-Touch Ups: Learn and get familiar with current build of the website<br>
-New Features: Implement moderator user accounts; Set up development project for future builds; <i>Research: Attempt to figure out how to read .apkg and .file files
+[TU] Learn and get familiar with current build of the website<br>
+[NF] Implement moderator user accounts<br>
+[NF] Set up development project for future builds<br>
+[NF] Research: Attempt to figure out how to read .apkg and .file files
 + <b>[2] 6/22-6/28:</b><br>
-Touch Ups: Remove "Delete" feature for now; Fix login bugs; Start implementing category organization<br>
-New Features: Research: Attempt to implement Anki importer, View Deck, Individual Card, and coverflow for deck overview
+[TU] Remove "Delete" feature for now<br>
+[TU] Fix login bugs<br>
+[TU] Start implementing category organization<br>
+[NF] Research: Attempt to implement Anki importer, View Deck, Individual Card, and coverflow for deck overview
 + <b>[3] 6/29-7/5:</b><br>
-Both Teams: Set up server via gnu screen (so it keep running)<br>
-Touch Ups: Finish implementing category organization<br>
-New Features: Research: Attempt to implement Edit Card and Edit Tags
+[TUNF] Set up server via gnu screen (so it keep running)<br>
+[TU] Finish implementing category organization<br>
+[NF] Research: Attempt to implement Edit Card and Edit Tags
 + <b>[4] 7/6-7/12:</b><br>
-Touch Ups: Create email account for discount user testing feedback (ankishareucifeedback@gmail.com); Buffer Week; Soft Summer Deployment Phase 1.0 7/12<br>
-New Features: Buffer Week for research tasks
+[TU] Create email account for discount user testing feedback (ankishareucifeedback@gmail.com)<br>
+[TU] Buffer Week<br>
+[TU] Soft Summer Deployment Phase 1.0 7/12<br>
+[NF] Buffer Week for research tasks
 + <b>[5] 7/13-7/19:</b><br>
-Touch Ups: Respond to discount user testing<br>
-New Features: Buffer Week for research tasks
+[TU] Respond to discount user testing<br>
+[NF] Buffer Week for research tasks
 + <b>[6] 7/20-7/26:</b><br>
-Touch Ups: Respond to discount user testing<br>
-New Features: Buffer Week for research tasks
+[TU] Respond to discount user testing<br>
+[NF] Buffer Week for research tasks
 + <b>[7] 7/27-8/2:</b><br>
-Touch Ups: Respond to discount user testing<br>
-New Features: Buffer Week for research tasks
+[TU] Respond to discount user testing<br>
+[NF] Buffer Week for research tasks
 + <b>[8] 8/3-8/6:</b><br>
-Both Teams: Create documentation; Make final adjustments; Prepare for last Hard Summer Deployment Phase 1.1 8/6<br>
-Touch Ups: Respond to discount user testing<br>
-New Features: Buffer Week for research tasks
+[TUNF] Create documentation; Make final adjustments<br>
+[TUNF] Prepare for last Hard Summer Deployment Phase 1.1 8/6<br>
+[TU] Respond to discount user testing<br>
+[NF] Buffer Week for research tasks
 + <b>[ ] 8/7-9/30:</b>
 NOTE: NO Hard deadlines for the rest of summer<br>
-Both Teams: Continue learning Ruby, JavaScript, HTML, and CSS<br>
-Touch Ups: Respond to discount user testing<br>
-New Features: Buffer Week for research tasks<br>
+[TUNF] Continue learning Ruby, JavaScript, HTML, and CSS<br>
+[TU] Respond to discount user testing<br>
+[NF] Buffer Week for research tasks<br>
 
 <b>FALL</b><br>
 All tasks are a team effort.
