@@ -69,7 +69,7 @@ Continue reading tutorials, watching videos, etc. on Ruby, JavaScript, HTML, and
 
 ## Timeline
 <b>SUMMER</b><br>
-Touch Ups - Jazmynn, Wilbur | New Features: Dillon, Vamsi | Floater: Kyla<br>
+Touch Ups: Jazmynn, Wilbur | New Features: Dillon, Vamsi | Floater: Kyla<br>
 Research means "trying to implement as best as we can"; Research tasks ARE NOT gauranteed to be finished; these tasks are more "trial" tests and runs so that we can hit the ground running in the Fall
 + <b>[1] 6/15-6/21:</b><br>
 [TU] Learn and get familiar with current build of the website<br>
@@ -82,7 +82,7 @@ Research means "trying to implement as best as we can"; Research tasks ARE NOT g
 [TU] Start implementing category organization<br>
 [NF] Research: Attempt to implement Anki importer, View Deck, Individual Card, and coverflow for deck overview
 + <b>[3] 6/29-7/5:</b><br>
-[TUNF] Set up server via gnu screen (so it keep running)<br>
+[TUNF] Set up server via gnu screen (so it keeps running)<br>
 [TU] Finish implementing category organization<br>
 [NF] Research: Attempt to implement Edit Card and Edit Tags
 + <b>[4] 7/6-7/12:</b><br>
@@ -104,7 +104,7 @@ Research means "trying to implement as best as we can"; Research tasks ARE NOT g
 [TUNF] Prepare for last Hard Summer Deployment Phase 1.1 8/6<br>
 [TU] Respond to discount user testing<br>
 [NF] Buffer Week for research tasks
-+ <b>[ ] 8/7-9/30:</b>
++ <b>[ ] 8/7-9/30:</b><br>
 NOTE: NO Hard deadlines for the rest of summer<br>
 [TUNF] Continue learning Ruby, JavaScript, HTML, and CSS<br>
 [TU] Respond to discount user testing<br>
