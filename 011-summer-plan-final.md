@@ -80,11 +80,11 @@ Research means "trying to implement as best as we can"; Research tasks ARE NOT g
 [TU] Remove "Delete" feature for now<br>
 [TU] Fix login bugs<br>
 [TU] Start implementing category organization<br>
-[NF] Research: Attempt to implement Anki importer, View Deck, Individual Card, and coverflow for deck overview
+[NF] Buffer Week for research tasks
 + <b>[3] 6/29-7/5:</b><br>
 [TUNF] Set up server via gnu screen (so it keeps running)<br>
 [TU] Finish implementing category organization<br>
-[NF] Research: Attempt to implement Edit Card and Edit Tags
+[NF] Research: Attempt to implement Anki importer, View Deck, Individual Card, and coverflow for deck overview
 + <b>[4] 7/6-7/12:</b><br>
 [TU] Create email account for discount user testing feedback (ankishareucifeedback@gmail.com)<br>
 [TU] Buffer Week<br>
@@ -92,7 +92,7 @@ Research means "trying to implement as best as we can"; Research tasks ARE NOT g
 [NF] Buffer Week for research tasks
 + <b>[5] 7/13-7/19:</b><br>
 [TU] Respond to discount user testing<br>
-[NF] Buffer Week for research tasks
+[NF] Research: Attempt to implement Edit Card and Edit Tags
 + <b>[6] 7/20-7/26:</b><br>
 [TU] Respond to discount user testing<br>
 [NF] Buffer Week for research tasks
