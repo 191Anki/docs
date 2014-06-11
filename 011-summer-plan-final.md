@@ -70,7 +70,7 @@ Continue reading tutorials, watching videos, etc. on Ruby, JavaScript, HTML, and
 ## Timeline
 <b>SUMMER</b><br>
 Touch Ups: Jazmynn, Wilbur | New Features: Dillon, Vamsi | Floater: Kyla<br>
-Research means "trying to implement as best as we can"; Research tasks ARE NOT gauranteed to be finished; these tasks are more "trial" tests and runs so that we can hit the ground running in the Fall
+Research hese tasks are not gauranteed to be finished. They are more "trials" so that we can hit the ground running in the Fall
 + <b>[1] 6/15-6/21:</b><br>
 [TU] Learn and get familiar with current build of the website<br>
 [NF] Implement moderator user accounts<br>
@@ -105,7 +105,7 @@ Research means "trying to implement as best as we can"; Research tasks ARE NOT g
 [TU] Respond to discount user testing<br>
 [NF] Buffer Week for research tasks
 + <b>[ ] 8/7-9/30:</b><br>
-NOTE: NO Hard deadlines for the rest of summer<br>
+NOTE: NO hard deadlines for the rest of summer<br>
 [TUNF] Continue learning Ruby, JavaScript, HTML, and CSS<br>
 [TU] Respond to discount user testing<br>
 [NF] Buffer Week for research tasks<br>
