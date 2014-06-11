@@ -68,40 +68,42 @@ Ruby, JavaScript, HTML, and CSS.<br>
 Continue reading tutorials, watching videos, etc. on Ruby, JavaScript, HTML, and CSS.
 
 ## Timeline
-<b>SUMMER</b> <i>(TEAMS: Touch Ups - Jazmynn, Wilbur | New Features: Dillon, Vamsi | Kyla will be a floater)</i><br>
-<i>NOTE: Research means "trying to implement as best as we can"; Research tasks ARE NOT gauranteed to be finished; these tasks are more "trial" tests and runs so that we can hit the ground running in the Fall</i>
-+ <b>[1] 6/15-6/21:</b>
-++ Touch Ups: Learn and get familiar with current build of the website
-++ New Features: Implement moderator user accounts; Set up development project for future builds; <i>Research: Attempt to figure out how to read .apkg and .file files
-+ <b>[2] 6/22-6/28:</b>
-++ Touch Ups: Remove "Delete" feature for now; Fix login bugs; Start implementing category organization
-++ New Features: <i>Research: Attempt to implement Anki importer, View Deck, Individual Card, and coverflow for deck overview</i>
-+ <b>[3] 6/29-7/5:</b>
-++ Both Teams: Set up server via gnu screen (so it keep running)
-++ Touch Ups: Finish implementing category organization
-++ New Features: <i>Research: Attempt to implement Edit Card and Edit Tags</i>
-+ <b>[4] 7/6-7/12:</b>
-++ Touch Ups: Create email account for discount user testing feedback (ankishareucifeedback@gmail.com); Buffer Week; Soft Summer Deployment Phase 1.0 7/12
-++ New Features: Buffer Week for research tasks
-+ <b>[5] 7/13-7/19:</b>
-++ Touch Ups: Respond to discount user testing
-++ New Features: Buffer Week for research tasks
-+ <b>[6] 7/20-7/26:</b>
-++ Touch Ups: Respond to discount user testing
-++ New Features: Buffer Week for research tasks
-+ <b>[7] 7/27-8/2:</b>
-++ Touch Ups: Respond to discount user testing
-++ New Features: Buffer Week for research tasks
-+ <b>[8] 8/3-8/6:</b>
-++ Both Teams: Create documentation; Make final adjustments; Prepare for last Hard Summer Deployment Phase 1.1 8/6
-++ Touch Ups: Respond to discount user testing
-++ New Features: Buffer Week for research tasks
-+ <b>[ ] 8/7-9/30:</b> (NOTE: NO Hard deadlines for the rest of summer)
-++ Both Teams: Continue learning Ruby, JavaScript, HTML, and CSS
-++ Touch Ups: Respond to discount user testing
-++ New Features: Buffer Week for research tasks
+<b>SUMMER</b><br>
+TEAMS: Touch Ups - Jazmynn, Wilbur | New Features: Dillon, Vamsi | Kyla will be a floater)<br>
+NOTE: Research means "trying to implement as best as we can"; Research tasks ARE NOT gauranteed to be finished; these tasks are more "trial" tests and runs so that we can hit the ground running in the Fall
++ <b>[1] 6/15-6/21:</b><br>
+Touch Ups: Learn and get familiar with current build of the website<br>
+New Features: Implement moderator user accounts; Set up development project for future builds; <i>Research: Attempt to figure out how to read .apkg and .file files
++ <b>[2] 6/22-6/28:</b><br>
+Touch Ups: Remove "Delete" feature for now; Fix login bugs; Start implementing category organization<br>
+New Features: Research: Attempt to implement Anki importer, View Deck, Individual Card, and coverflow for deck overview
++ <b>[3] 6/29-7/5:</b><br>
+Both Teams: Set up server via gnu screen (so it keep running)<br>
+Touch Ups: Finish implementing category organization<br>
+New Features: <i>Research: Attempt to implement Edit Card and Edit Tags</i>
++ <b>[4] 7/6-7/12:</b><br>
+Touch Ups: Create email account for discount user testing feedback (ankishareucifeedback@gmail.com); Buffer Week; Soft Summer Deployment Phase 1.0 7/12<br>
+New Features: Buffer Week for research tasks
++ <b>[5] 7/13-7/19:</b><br>
+Touch Ups: Respond to discount user testing<br>
+New Features: Buffer Week for research tasks
++ <b>[6] 7/20-7/26:</b><br>
+Touch Ups: Respond to discount user testing<br>
+New Features: Buffer Week for research tasks
++ <b>[7] 7/27-8/2:</b><br>
+Touch Ups: Respond to discount user testing<br>
+New Features: Buffer Week for research tasks
++ <b>[8] 8/3-8/6:</b><br>
+Both Teams: Create documentation; Make final adjustments; Prepare for last Hard Summer Deployment Phase 1.1 8/6<br>
+Touch Ups: Respond to discount user testing<br>
+New Features: Buffer Week for research tasks
++ <b>[ ] 8/7-9/30:</b> NOTE: NO Hard deadlines for the rest of summer<br>
+Both Teams: Continue learning Ruby, JavaScript, HTML, and CSS<br>
+Touch Ups: Respond to discount user testing<br>
+New Features: Buffer Week for research tasks<br>
 
-<b>FALL</b> <i>(All tasks are a team effort.)</i>
+<b>FALL</b><br>
+All tasks are a team effort.
 + <b>[0] 10/1-10/4:</b> (nothing)
 + <b>[1] 10/5-10/11:</b> Start implementing View Deck and Individual Card
 + <b>[2] 10/12-10/18:</b> Finish implementing View Deck and Individual Card; Start implementing Edit Card and Edit Tags
