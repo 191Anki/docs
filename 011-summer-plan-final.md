@@ -1,5 +1,5 @@
-# Summer Plan Draft
-Team Anki<br>
+# Final Summer Plans and Learning Plan
+Team Anki
 Dillon Gee, Jazmynn Daos, Kyla Lamontagne, Vamsi Koduru, Wilbur Chen
 
 ## Assessment
@@ -8,7 +8,7 @@ Basic AnkiShare.com website build with a homepage login and upload/download page
 
 Functional Requirements:
 + Users can register for an account, login, and logout.
-+ Users can upload only apkg files to the system.
++ Users can upload files to the system.
 + Users can delete files from the system.
 + Users can download files from the system.
 + The upload/download page automatically refreshes with an updated download list once a user uploads a file.
@@ -60,7 +60,7 @@ Ruby, JavaScript, HTML, and CSS.<br>
 
 <b>Who in the team has these skills? Who does not?</b>
 + Ruby: All team members, but still basic.
-+ JavaScript: Dillon and Vamsi (some). <i>Jazmynn, Kyla, and Wilbur have no experience</i>
++ JavaScript: Dillon and Vamsi (some). <i>Jazmynn, Kyla, and Wilbur have no experience.</i>
 + HTML: All team members, but still basic.
 + CSS: All team members, but still basic.
 
@@ -70,7 +70,7 @@ Continue reading tutorials, watching videos, etc. on Ruby, JavaScript, HTML, and
 ## Timeline
 <b>SUMMER</b><br>
 Touch Ups: Jazmynn, Wilbur | New Features: Dillon, Vamsi | Floater: Kyla<br>
-Research hese tasks are not gauranteed to be finished. They are more "trials" so that we can hit the ground running in the Fall
+Research tasks are not gauranteed to be finished. They are more "trials" so that we can hit the ground running in the Fall.
 + <b>[1] 6/15-6/21:</b><br>
 [TU] Learn and get familiar with current build of the website<br>
 [NF] Implement moderator user accounts<br>
@@ -82,13 +82,13 @@ Research hese tasks are not gauranteed to be finished. They are more "trials" so
 [TU] Start implementing category organization<br>
 [NF] Buffer Week for research tasks
 + <b>[3] 6/29-7/5:</b><br>
-[TUNF] Set up server via gnu screen (so it keeps running)<br>
+[TU,NF] Set up server via gnu screen (so it keeps running)<br>
 [TU] Finish implementing category organization<br>
 [NF] Research: Attempt to implement Anki importer, View Deck, Individual Card, and coverflow for deck overview
 + <b>[4] 7/6-7/12:</b><br>
 [TU] Create email account for discount user testing feedback (ankishareucifeedback@gmail.com)<br>
 [TU] Buffer Week<br>
-[TU] Soft Summer Deployment Phase 1.0 7/12<br>
+[TU] Prepare for (soft) Summer Deployment Phase 1.0 7/12<br>
 [NF] Buffer Week for research tasks
 + <b>[5] 7/13-7/19:</b><br>
 [TU] Respond to discount user testing<br>
@@ -100,20 +100,20 @@ Research hese tasks are not gauranteed to be finished. They are more "trials" so
 [TU] Respond to discount user testing<br>
 [NF] Buffer Week for research tasks
 + <b>[8] 8/3-8/6:</b><br>
-[TUNF] Create documentation; Make final adjustments<br>
-[TUNF] Prepare for last Hard Summer Deployment Phase 1.1 8/6<br>
+[TU,NF] Create documentation; Make final adjustments<br>
+[TU,NF] Prepare for (hard) Summer Deployment Phase 1.1 8/6<br>
 [TU] Respond to discount user testing<br>
 [NF] Buffer Week for research tasks
 + <b>[ ] 8/7-9/30:</b><br>
-NOTE: NO hard deadlines for the rest of summer<br>
-[TUNF] Continue learning Ruby, JavaScript, HTML, and CSS<br>
+Note: NO hard deadlines for the rest of summer<br>
+[TU,NF] Continue learning Ruby, JavaScript, HTML, and CSS<br>
 [TU] Respond to discount user testing<br>
 [NF] Buffer Week for research tasks<br>
 
 <b>FALL</b><br>
 All tasks are a team effort.
 + <b>[0] 10/1-10/4:</b><br>
-(nothing)
+Not set specific tasks
 + <b>[1] 10/5-10/11:</b><br>
 Start implementing View Deck and Individual Card
 + <b>[2] 10/12-10/18:</b><br>
